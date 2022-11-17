@@ -10,6 +10,7 @@ html,body{
 
 a {
   text-decoration: none;
+  transition: none !important;
 }
 
 ul, ol {
